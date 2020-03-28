@@ -1,4 +1,10 @@
-Note corpus has been temporarily removed 
+Description:
+This is a twitter bot that classifies images as either cyberpunk, science fiction or fantasy. The text is sourced from open and creative commons sources.  
+Here is a link to the bot:
+https://twitter.com/tristenscubot
+
+Usage Guide:
+
 
 How to use the bot:
 Tweet at the bot with the hashtag piesciencefiction23 and it will get an image with that hashtag at when it starts up.
